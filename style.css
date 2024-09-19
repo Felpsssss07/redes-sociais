@@ -6,5 +6,9 @@
     --cor-texto: #000000;
     --cor-de-fundo: #A9A9A9;
     --font:"Open Sans", sans-serif;
-
+}
+body{
+    background-color: var(--cor-principal);
+    color: var(--cor-texto);
+    font-family: var(--font);
 }
